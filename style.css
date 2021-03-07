@@ -71,4 +71,7 @@ footer {
     width: 50px;
     cursor: pointer;
 }
+span {
+    font-weight: bold;
+}
 
