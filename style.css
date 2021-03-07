@@ -1,0 +1,74 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    padding: 20px;
+    background: radial-gradient(black, transparent);
+}
+
+header, section, footer {
+    padding-bottom: 10px;
+    background: snow;
+}
+
+.container {
+    padding: 0 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+}
+
+.gray {
+    color: slategrey;
+}
+
+li {
+    list-style-type: circle;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+.skills, .other-info {
+    padding: 0 200px;
+    display: flex;
+}
+
+.skills__skill, .education {
+    width: 40%;
+    margin-right: 30%;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logos {
+    display: flex;
+    width: 180px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo_github, .logo_rss {
+    width: 50px;
+    cursor: pointer;
+}
+
