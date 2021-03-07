@@ -12,7 +12,7 @@ sapozhnikova_anastasia@mail.ru
 *Skills*
 - CSS and preprocessor SCSS;
 - JS, Vue JS;
-- Git
+- Git;
 
 *Code Example*
 ``` 
